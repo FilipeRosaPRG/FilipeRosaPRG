@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, I' am Filipe Alves :smile:
 
-<!--
-**FilipeAlvesPRG/FilipeAlvesPRG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<i>Veritas lux mea</i> - psalms 119:115
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Croma Recursos humanos
+- 🌱 I’m currently learning languages for app development
+- 😄 I'm open to new knowledge !
+- 💬 Ask me about anything
+- 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/filipe-alves-886a64131/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/FilipeAlvesPRG/)](https://github.com/FilipeAlvesPRG/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipe-alves-886a64131/)](https://www.linkedin.com/in/filipe-alves-886a64131/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4717a?style=flat-square&labelColor=e4717a&logo=instagram&logoColor=white&link=https://https://www.instagram.com/filipealveskeys/)](https://www.instagram.com/filipealveskeys/)
+
+## GitHub Stats
+
+<p align="center">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeAlvesPRG&layout=compact">
+	<img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=FilipeAlvesPRG&show_icons=true"><br>
+	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=FilipeAlvesPRG&hide_border=true&date_format=j%20M%5B%20Y%5D"><br><br>
+	<img src="https://visitor-badge.glitch.me/badge?page_id=FilipeAlvesPRG.FilipeAlvesPRG" alt="visitor badge"/>
+</p>
