@@ -2,7 +2,6 @@
 
 <i>Veritas lux mea</i> - psalms 119:115
 
-- 🔭 I’m currently working on Croma Recursos humanos
 - 🌱 I’m currently learning languages for app development
 - 😄 I'm open to new knowledge !
 - 💬 Ask me about anything
