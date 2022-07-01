@@ -12,9 +12,10 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/FilipeAlvesPRG/)](https://github.com/FilipeAlvesPRG/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipe-alves-886a64131/)](https://www.linkedin.com/in/filipe-alves-886a64131/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4717a?style=flat-square&labelColor=e4717a&logo=instagram&logoColor=white&link=https://www.instagram.com/filipealves11/)](https://www.instagram.com/filipealvess11/)
+[![Behance Badge](https://img.shields.io/badge/-Behance-0057FF?style=flat-square&labelColor=0057FF&logo=behance&logoColor=white&link=https://www.behance.net/filipealves27)](https://www.behance.net/filipealves27)
 
 ## Languages 
-<p align="center">
+<p  align="center">
 <img src= "https://i.postimg.cc/dtJ49f2b/html-5.png" width="80">
 <img src= "https://i.postimg.cc/gcVg8pZy/css-3.png" width="80">
 <img src= "https://i.postimg.cc/9F11gB1r/js.png" width="80">
