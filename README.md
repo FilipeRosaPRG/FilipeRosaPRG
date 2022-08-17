@@ -35,3 +35,10 @@
 	<img src="https://visitor-badge.glitch.me/badge?page_id=FilipeAlvesPRG.FilipeAlvesPRG" alt="visitor badge"/>
 </p>
 
+<!-- Begin: HubSpot Academy - HubSpot CMS for Developers Badge -->
+<div class='academy-badge' align="center">
+<a href='http://academy.hubspot.com/certification' title='HubSpot CMS for Developers'>
+<img height="165" src='https://hubspot-academy.s3.amazonaws.com/prod/tracks/user-badges/46292399/bcec9b455a0445c0ac32c7f6604898a4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220817T210954Z&X-Amz-SignedHeaders=host&X-Amz-Expires=18000&X-Amz-Credential=AKIAT26QUQEJQKIX43GP%2F20220817%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d773961f3a1380db01c814dc9c4dbf55e8723323e13c50194679aa825a1912f5' />
+</a>
+</div>
+<!-- End: HubSpot Academy - HubSpot CMS for Developers Badge -->
