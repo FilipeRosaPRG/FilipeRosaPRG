@@ -1,4 +1,4 @@
-![hi](https://github.com/FilipeAlvesPRG/FilipeAlvesPRG/blob/main/header.png)
+<h1>Hi, my name is Filipe</h1>
 
 <i>Veritas lux mea</i> - psalms 119:115
 
