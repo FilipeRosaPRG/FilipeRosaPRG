@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning languages for app development
 - 😄 I'm open to new knowledge !
 - 💬 Ask me about anything
-- 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/filipe-alves-886a64131/)
+- 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/filipe-rosa-886a64131/)
 
 ## Connect with me
 
