@@ -29,8 +29,8 @@
 ## GitHub Stats
 
 <p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeRosaPRG&layout=compact">
-	<img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=FilipeRosaPRG&show_icons=true"><br>
+	<img alt="" />
+	<img alt=""><br>
 	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=FilipeRosaPRG&hide_border=true&date_format=j%20M%5B%20Y%5D"><br><br>
 	<img src="https://visitor-badge.glitch.me/badge?page_id=FilipeRosaPRG.FilipeRosaPRG" alt="visitor badge"/>
 </p>
