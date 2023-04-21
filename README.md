@@ -5,12 +5,12 @@
 - 🌱 I’m currently learning languages for app development
 - 😄 I'm open to new knowledge !
 - 💬 Ask me about anything
-- 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/filipe-rosa-886a64131/)
+- 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/filiperosa11/)
 
 ## Connect with me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/FilipeAlvesPRG/)](https://github.com/FilipeRosaPRG/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipe-rosa-886a64131/)](https://www.linkedin.com/in/filipe-rosa-886a64131/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipe-rosa-886a64131/)](https://www.linkedin.com/in/filiperosa11/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4717a?style=flat-square&labelColor=e4717a&logo=instagram&logoColor=white&link=https://www.instagram.com/filiperosaa11/)](https://www.instagram.com/filiperosaa11/)
 [![Behance Badge](https://img.shields.io/badge/-Behance-0057FF?style=flat-square&labelColor=0057FF&logo=behance&logoColor=white&link=https://www.behance.net/filipealves27)](https://www.behance.net/filipealves27)
 
